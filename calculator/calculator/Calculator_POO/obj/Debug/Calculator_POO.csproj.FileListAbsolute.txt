@@ -1,0 +1,9 @@
+C:\Users\Carmen\Desktop\Calculator_POO\Calculator_POO\bin\Debug\Calculator_POO.exe.config
+C:\Users\Carmen\Desktop\Calculator_POO\Calculator_POO\bin\Debug\Calculator_POO.exe
+C:\Users\Carmen\Desktop\Calculator_POO\Calculator_POO\bin\Debug\Calculator_POO.pdb
+C:\Users\Carmen\Desktop\Calculator_POO\Calculator_POO\obj\Debug\Calculator_POO.csprojAssemblyReference.cache
+C:\Users\Carmen\Desktop\Calculator_POO\Calculator_POO\obj\Debug\Calculator_POO.Form1.resources
+C:\Users\Carmen\Desktop\Calculator_POO\Calculator_POO\obj\Debug\Calculator_POO.Properties.Resources.resources
+C:\Users\Carmen\Desktop\Calculator_POO\Calculator_POO\obj\Debug\Calculator_POO.csproj.GenerateResource.cache
+C:\Users\Carmen\Desktop\Calculator_POO\Calculator_POO\obj\Debug\Calculator_POO.exe
+C:\Users\Carmen\Desktop\Calculator_POO\Calculator_POO\obj\Debug\Calculator_POO.pdb
