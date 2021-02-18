@@ -1,0 +1,9 @@
+C:\Users\Carmen\Desktop\Notepadd\Notepadd\bin\Debug\Notepadd.exe.config
+C:\Users\Carmen\Desktop\Notepadd\Notepadd\bin\Debug\Notepadd.exe
+C:\Users\Carmen\Desktop\Notepadd\Notepadd\bin\Debug\Notepadd.pdb
+C:\Users\Carmen\Desktop\Notepadd\Notepadd\obj\Debug\Notepadd.csprojAssemblyReference.cache
+C:\Users\Carmen\Desktop\Notepadd\Notepadd\obj\Debug\Notepadd.Form1.resources
+C:\Users\Carmen\Desktop\Notepadd\Notepadd\obj\Debug\Notepadd.Properties.Resources.resources
+C:\Users\Carmen\Desktop\Notepadd\Notepadd\obj\Debug\Notepadd.csproj.GenerateResource.cache
+C:\Users\Carmen\Desktop\Notepadd\Notepadd\obj\Debug\Notepadd.exe
+C:\Users\Carmen\Desktop\Notepadd\Notepadd\obj\Debug\Notepadd.pdb
